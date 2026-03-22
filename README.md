@@ -2,7 +2,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** no Ensino Médio Integrado ao Técnico (M-TEC) na ETEC Professor Horácio Augusto da Silveira (HAS).
 
-Este perfil é o meu espaço para documentar minha evolução na programação e nos estudos de tecnologia.
+Este perfil é o meu espaço para documentar minha evolução nos estudos.
 
 ### 🛠️ O que estou aprendendo no momento:
 - **Programação e Algoritmos:** Lógica de Programação em C e Fluxogramas. (Dev-C++)
