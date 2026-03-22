@@ -5,7 +5,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no Ensino Médio Integrado ao T
 Este perfil é o meu espaço para documentar minha evolução na programação e nos estudos de tecnologia.
 
 ### 🛠️ O que estou aprendendo no momento:
-- **Lógica de Programação:** Algoritmos e Fluxogramas. (Dev-C++)
+- **Programação e Algoritmos:** Lógica de Programação em C e Fluxogramas. (Dev-C++)
 - **Sistemas Embarcados:** Circuitos e Microcomputadores. (Tinkercad)
 - **Programação Web:** HTML e CSS (VS Code)
 - **Banco de Dados:** DER, Entidades e Atributos. (BRModelo)
