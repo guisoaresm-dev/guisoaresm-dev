@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme! 👋 (@guisoaresm-dev)
 
-<!--
-**guisoaresm-dev/guisoaresm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas** no Ensino Médio Integrado ao Técnico (M-TEC) na ETEC Professor Horácio Augusto da Silveira (HAS).
 
-Here are some ideas to get you started:
+Este perfil é o meu espaço para documentar minha evolução na programação e nos estudos de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que estou aprendendo no momento:
+- **Lógica de Programação:** Algoritmos e Fluxogramas. (Dev-C++)
+- **Sistemas Embarcados:** Circuitos e Microcomputadores. (Tinkercad)
+- **Programação Web:** HTML e CSS (VS Code)
+- **Banco de Dados:** DER, Entidades e Atributos. (BRModelo)
+
+### 🎯 Meus objetivos:
+- Dominar a lógica de programação estruturada para resolver problemas complexos.
+- Criar projetos práticos que unam eletrônica (Sistemas Embarcados) e software.
+- Desenvolver interfaces web modernas e responsivas utilizando boas práticas.
+- Conseguir minha primeira oportunidade de estágio na área de tecnologia.
+
+*Focado em aprender os fundamentos hoje para construir os sistemas de amanhã.*
